@@ -2,3 +2,5 @@ title: "Mi Blog de Programación"
 description: "Mini-guías y tutoriales rápidos"
 theme: minima
 url: "https://tusuario.github.io"
+markdown: kramdown
+highlighter: rouge
